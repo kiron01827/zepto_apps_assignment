@@ -1,6 +1,6 @@
-## Full Stack Developer Assignment
+# Full Stack Developer Assignment
 
-Create a mysql database named 'zepto_apps' and import the 'zepto_apps.sql' file (provided in the sql folder) into the databse before run the project.
+Create a mysql database named 'zepto_apps' and import the 'zepto_apps.sql' file (provided in the sql folder) into the databse before running the project.
 
 ## Database connection dependencies
 
